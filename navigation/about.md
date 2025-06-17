@@ -15,3 +15,4 @@ Here are some places I have lived.
 * travel
 
 ![yoga]({{site.baseurl}}/images/yoga.jpeg)
+![bread]({{site.baseurl}}/images/bread.jpeg)
